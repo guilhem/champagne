@@ -1,12 +1,14 @@
 # Champagne 🍾
 
-![logo](logo_small.png)
+![logo](img/logo_small.png)
 
 Kubernetes End-to-End testing
 
 ## Goal
 
 Before going into production, you may want to validate all your deployment (services, pods, ingress…)
+
+![christening](img/christening.jpg)
 
 ## Features
 
